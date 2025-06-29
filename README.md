@@ -14,7 +14,7 @@ Welcome to the **BMI Calculator** — a simple yet powerful tool built with **HT
 🔹 **Clone this repo:**
 
 ```bash
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/Anwita0106/bmi-calculator.git
 ```
 
 🔹 **Navigate to the folder:**
@@ -34,6 +34,4 @@ cd bmi-calculator
 
 Have ideas? Create a pull request and let’s build better together!
 
-## 📄 License
-
-Released under [MIT License](LICENSE). Enjoy coding and stay healthy!
+ Enjoy coding and stay healthy!
