@@ -17,13 +17,13 @@ Welcome to the **BMI Calculator** — a simple yet powerful tool built with **HT
 🔹 **Clone this repo:**
 
 ```bash
-git clone https://github.com/Anwita0106/bmi-calculator.git
+git clone https://github.com/Anwita0106/BMI-calculator.git
 ```
 
 🔹 **Navigate to the folder:**
 
 ```bash
-cd bmi-calculator
+cd BMI-calculator
 ```
 
 🔹 **Open `index.html`** in your browser and start calculating!
