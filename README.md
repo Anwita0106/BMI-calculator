@@ -5,8 +5,11 @@ Welcome to the **BMI Calculator** — a simple yet powerful tool built with **HT
 ## 🎯 What it Does
 
 ✨ Takes your height and weight as input
+
 ✨ Instantly calculates your BMI
+
 ✨ Gives you quick feedback on your health range
+
 ✨ Works smoothly on any modern browser
 
 ## 🚀 Getting Started
